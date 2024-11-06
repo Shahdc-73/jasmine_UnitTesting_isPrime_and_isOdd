@@ -9,7 +9,4 @@ class NumberChecker {
   
 }
 
-
-// const checker = new NumberChecker();
-// console.log(checker.isOddOrEven(3)); // Output: 'odd'
-// console.log(checker.isOddOrEven(4)); // Output: 'even'
+ 
